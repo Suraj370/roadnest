@@ -4,11 +4,8 @@ import { zodResolver } from "@hookform/resolvers/zod";
 import { Button } from '../../../../components/ui/button'
 import { Card, CardContent } from '../../../../components/ui/card'
 import { Label } from '../../../../components/ui/label'
-import { Switch } from '../../../../components/ui/switch'
 import { Input } from '../../../../components/ui/input'
-import { Checkbox } from '../../../../components/ui/checkbox'
-import { Separator } from '@radix-ui/react-select'
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '../../../../components/ui/select'
+
 import {
   AlertDialog,
   AlertDialogAction,
