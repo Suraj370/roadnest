@@ -1,0 +1,12 @@
+{
+  "greeting": "Hola",
+  "welcome": "Bienvenido a nuestra aplicación",
+  "buttons": {
+    "submit": "Enviar",
+    "cancel": "Cancelar"
+  },
+  "hero": {
+    "title": "Alquila un coche con solo unos clics",
+    "subtitle": "Desbloquéalo 24/7 con tu teléfono y ¡arranca!"
+  }
+}
